@@ -1,4 +1,3 @@
-# redismigration
 # Redis Migration
 The main idea of writing this migration utility was to provide a easy and convenient migration.
 
